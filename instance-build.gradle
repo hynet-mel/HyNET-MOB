@@ -4,7 +4,7 @@ Note: Publishing a custom build on Google Play may violate the Google Play devel
  */
 
 // The app name
-ext.APP_NAME = "Husky"
+ext.APP_NAME = "HyNET Social"
 
 // The application id. Must be unique, e.g. based on your domain
 ext.APP_ID = "su.xash.husky"
@@ -13,7 +13,7 @@ ext.APP_ID = "su.xash.husky"
 ext.CUSTOM_LOGO_URL = ""
 
 // e.g. mastodon.social. Keep empty to not suggest any instance on the signup screen
-ext.CUSTOM_INSTANCE = ""
+ext.CUSTOM_INSTANCE = "soc.hyena.network"
 
 // link to your support account. Will be linked on the about page when not empty.
-ext.SUPPORT_ACCOUNT_URL = "https://fedi.absturztau.be/a1batross"
+ext.SUPPORT_ACCOUNT_URL = "https://soc.hyena.network/mel"

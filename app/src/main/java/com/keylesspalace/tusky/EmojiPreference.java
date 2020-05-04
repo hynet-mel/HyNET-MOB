@@ -37,7 +37,8 @@ public class EmojiPreference extends Preference {
             R.id.item_nomoji,
             R.id.item_blobmoji,
             R.id.item_twemoji,
-            R.id.item_notoemoji};
+            R.id.item_notoemoji,
+            R.id.item_mtnt};
 
     private ArrayList<RadioButton> radioButtons = new ArrayList<>();
 

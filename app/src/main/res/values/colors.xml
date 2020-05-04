@@ -39,6 +39,7 @@
     <color name="elephant_friend_dark_body_color_2">#7F90A4</color>
     <color name="elephant_friend_light_color_1">#CAD4E0</color>
     <color name="elephant_friend_light_color_2">#d9e1e8</color>
-
+    <!-- Launcher color-->
+    <color name="ic_launcher_background">#2E2020</color>
     <color name="green_ver">#124514</color>
 </resources>
