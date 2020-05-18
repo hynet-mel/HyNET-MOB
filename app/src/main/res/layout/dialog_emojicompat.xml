@@ -23,6 +23,9 @@
         <include
             android:id="@+id/item_notoemoji"
             layout="@layout/item_emoji_pref" />
+        <include
+            android:id="@+id/item_mtnt"
+            layout="@layout/item_emoji_pref" />
 
         <include
             android:id="@+id/item_nomoji"

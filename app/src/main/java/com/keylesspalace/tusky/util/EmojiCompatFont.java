@@ -9,8 +9,8 @@ import android.util.Pair;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
-import androidx.emoji.text.EmojiCompat;
 import androidx.emoji.bundled.BundledEmojiCompatConfig;
+import androidx.emoji.text.EmojiCompat;
 
 import com.keylesspalace.tusky.R;
 
@@ -59,7 +59,7 @@ public class EmojiCompatFont {
             new EmojiCompatFont("system-default",
                     "System Default",
                     R.string.caption_systememoji,
-                    R.drawable.ic_emoji_34dp,
+                    R.drawable.ic_thinking,
                     "",
                     "0");
     private static final EmojiCompatFont BLOBMOJI =
@@ -86,12 +86,20 @@ public class EmojiCompatFont {
                     "https://tusky.app/hosted/emoji/NotoEmojiCompat.ttf",
                     "11.0.0"
             );
+    private static final EmojiCompatFont MTNT =
+            new EmojiCompatFont("MTNTstd",
+                    "Mutant Standard",
+                    R.string.caption_mtntemoji,
+                    R.drawable.ic_thinking,
+                    "https://hyena.network/fonts/MTNTstd.ttf",
+                    "2020.04"
+            );
 
     /**
      * This array stores all available EmojiCompat fonts.
      * References to them can simply be saved by saving their indices
      */
-    public static final EmojiCompatFont[] FONTS = {SYSTEM_DEFAULT, BLOBMOJI, TWEMOJI, NOTOEMOJI};
+    public static final EmojiCompatFont[] FONTS = {SYSTEM_DEFAULT, BLOBMOJI, TWEMOJI, NOTOEMOJI, MTNT};
     // A list of all available font files and whether they are older than the current version or not
     // They are ordered by there version codes in ascending order
     private ArrayList<Pair<File, int[]>> existingFontFiles;
