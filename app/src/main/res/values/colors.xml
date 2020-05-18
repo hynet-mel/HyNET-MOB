@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="tusky_blue">#d8a070</color>
+    <color name="tusky_blue">#E36B6B</color> <!--HyNET CUSTOM-->
     <color name="tusky_blue_light">#f16707</color>
     <color name="tusky_orange">#ca8f04</color>
     <color name="tusky_orange_light">#fab207</color>
@@ -12,20 +12,22 @@
 
     <!-- def RemapVal(v, a, b, c = 0, d = 100): return c + (d - c) * (v - a) / (b - a) -->
     <!-- the number roughly corresponds to the % lightness of the grey -->
-    <color name="tusky_grey_05">#070b14</color>
-    <color name="tusky_grey_10">#121a24</color> <!-- Pleroma Dark Background -->
-    <color name="tusky_grey_20">#182230</color> <!-- Pleroma Dark Foreground -->
-    <color name="tusky_grey_25">#1f2836</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_30">#252e3c</color> <!-- Pleroma Dark Foreground -->
-    <color name="tusky_grey_40">#3f4855</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_50">#666e7a</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_70">#adb0b4</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_80">#b2b8c2</color> <!-- Pleroma Light Foreground -->
-    <color name="tusky_grey_90">#b9b9ba</color> <!-- Pleroma Dark Text Color -->
+    <color name="tusky_grey_05">#161616</color>
+    <color name="tusky_grey_10">#272626</color> <!-- Pleroma Dark Background --> <!--HyNET CUSTOM-->
+    <color name="tusky_grey_20">#373737</color> <!-- Pleroma Dark Foreground --> <!--HyNET CUSTOM-->
+    <color name="tusky_grey_25">#2F2F2F</color> <!-- calculated from gradient --> <!--HyNET CUSTOM-->
+    <color name="tusky_grey_30">#2F2F2F</color> <!-- Pleroma Dark Foreground --> <!--HyNET CUSTOM-->
+    <color name="tusky_grey_40">#535353</color> <!-- calculated from gradient --> <!--HyNET CUSTOM-->
+    <color name="tusky_grey_50">#6A6060</color> <!-- calculated from gradient --> <!--HyNET CUSTOM-->
+    <color name="tusky_grey_70">#A0A0A0</color> <!-- calculated from gradient --> <!--HyNET CUSTOM-->
+    <color name="tusky_grey_80">#8DE36B6B</color> <!-- Pleroma Light Foreground -->
+    <color name="tusky_grey_90">#AEAEAE</color> <!-- Pleroma Dark Text Color -->
     <color name="tusky_grey_95">#f2f4f6</color> <!-- Pleroma Light Background -->
     <!--<color name="tusky_grey_95">#e4e6e8</color>-->
+    <color name="dividercolor">#74FF7474</color>
 
-    <color name="transparent_tusky_blue">#8c2b90d9</color>
+
+    <color name="transparent_tusky_blue">#8C993B3B</color> <!--HyNET CUSTOM-->
     <color name="transparent_black">#8f000000</color>
     <color name="header_background_filter_dark">#44000000</color>
     <color name="header_background_filter_light">#66FFFFFF</color>
