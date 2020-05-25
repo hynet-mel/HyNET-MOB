@@ -557,5 +557,9 @@
     <string name="warning_scheduling_interval">Mastodon has a minimum scheduling interval of 5 minutes.</string>
     <string name="pref_title_show_cards_in_timelines">Show link previews in timelines</string>
     <string name="pref_title_confirm_reblogs">Show confirmation dialog before boosting</string>
+    <string name="action_mute_conversation">Mute Conversation</string>
+    <string name="action_unmute_conversation">Unmute Conversation</string>
+    <string name="hashtags">Hashtags</string>
+    <string name="add_hashtag_title">Add hashtag title</string>
 
 </resources>

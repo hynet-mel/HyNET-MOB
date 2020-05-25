@@ -479,12 +479,6 @@
     <string name="pref_title_confirm_reblogs">Показвать диалог подтверждения перед продвижением</string>
     <string name="pref_title_show_cards_in_timelines">Показывать предосмотр ссылок в лентах</string>
     <string name="pref_title_enable_swipe_for_tabs">Включить переключение между вкладками смахиванием</string>
-    <plurals name="poll_info_people">
-        <item quantity="one">%s человек</item>
-        <item quantity="few">%s человека</item>
-        <item quantity="many">%s человек</item>
-        <item quantity="other">%s человек</item>
-    </plurals>
     <string name="notification_follow_request_description">Уведомления о запросах на подписку</string>
     <string name="notification_follow_request_name">Запросы на подписку</string>
     <string name="pref_title_notification_filter_follow_requests">подписка запрошена</string>

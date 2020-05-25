@@ -477,14 +477,6 @@
     <string name="pref_title_notification_filter_follow_requests">طلب متابعة</string>
     <string name="pref_title_confirm_reblogs">أظهر نافذة لطلب التأكيد قبل المشاركة</string>
     <string name="pref_title_show_cards_in_timelines">أظهر معاينات الروابط على الخيوط</string>
-    <plurals name="poll_info_people">
-        <item quantity="zero">لا شخص</item>
-        <item quantity="one">شخص واحد</item>
-        <item quantity="two">شخصان</item>
-        <item quantity="few">%s أشخاص</item>
-        <item quantity="many">%s أشخاص</item>
-        <item quantity="other">%s أشخاص</item>
-    </plurals>
     <string name="notification_follow_request_description">إشعارات عن طلبات المتابعة</string>
     <string name="notification_follow_request_name">طلبات المتابَعة</string>
     <string name="dialog_mute_warning">أتريد كتم @%s؟</string>

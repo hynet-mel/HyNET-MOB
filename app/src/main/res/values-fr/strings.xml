@@ -464,10 +464,6 @@
     <string name="pref_title_confirm_reblogs">Afficher une boite de confirmation avant de booster</string>
     <string name="pref_title_show_cards_in_timelines">Afficher des aperçus des liens dans les fils</string>
     <string name="notification_follow_request_format">%s a demandé à vous suivre</string>
-    <plurals name="poll_info_people">
-        <item quantity="one">%s personne</item>
-        <item quantity="other">%s personnes</item>
-    </plurals>
     <string name="notification_follow_request_description">Notifications lors des demandes d’abonnement</string>
     <string name="pref_title_notification_filter_follow_requests">demande d’abonnement</string>
     <string name="dialog_mute_warning">Mettre en sourdine @%s \?</string>
