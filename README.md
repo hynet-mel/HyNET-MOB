@@ -39,6 +39,9 @@ For translating Tusky into your language, visit https://weblate.tusky.app/. For 
 ### Head of development
 
 This app was customized by [@mel@soc.hyena.network](soc.hyena.network/mel)
+
 This app was developed by [Vavassor@mastodon.social](https://mastodon.social/@Vavassor).
+
 The Tusky's maintainer is [ConnyDuck@chaos.social](https://chaos.social/@ConnyDuck).
+
 The fork main developer is [a1batross@expired.mentality.rip](https://expired.mentality.rip/users/a1batross).
