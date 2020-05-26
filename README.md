@@ -8,7 +8,7 @@ Husky and HyNET MOB are forks of [Tusky](https://github.com/tuskyapp/Tusky) that
 
 Tusky is quote, unquote, `... a beautiful Android client for [Mastodon](https://github.com/tootsuite/mastodon). Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.`
 
-## HyNET Mob changes
+## HyNET MOB changes
  - Added Mutant Standard emojis for download
  - Changed colors to be uniform to the main instance
  - Changing some icons to be more uniform with the main instance
