@@ -1,4 +1,4 @@
-# Husky
+# Husky ( HyNET MOB fork )
 [![Build Status](https://api.travis-ci.org/FWGS/Husky.svg?branch=develop)](https://travis-ci.org/FWGS/Husky)\
 
 [![Download F-Droid](https://img.shields.io/badge/download-fdroid-blue)](https://f-droid.org/repository/browse/?fdid=su.xash.husky) [![Download Google Play](https://img.shields.io/badge/download-googleplay-blue)](https://play.google.com/store/apps/details?id=su.xash.husky) [![Download Testing](https://img.shields.io/badge/downloads-testing-green)](https://github.com/FWGS/Husky/releases/tag/continuous)

@@ -17,7 +17,7 @@
     <color name="colorBackgroundAccent">@color/tusky_grey_30</color>
     <color name="dividerColor">@color/tusky_grey_70</color>
 
-    <color name="favoriteButtonActiveColor">@color/tusky_orange</color>
+    <color name="favoriteButtonActiveColor">@color/tusky_yellow</color>
 
     <color name="headerBackgroundFilter">@color/header_background_filter_dark</color>
 

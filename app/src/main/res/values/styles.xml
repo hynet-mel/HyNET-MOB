@@ -132,7 +132,7 @@
 
         <item name="colorSurface">@color/tusky_grey_10</item>
 
-        <item name="iconColor">@color/tusky_grey_40</item>
+        <item name="iconColor">@color/tusky_grey_90</item>
         <item name="colorBackgroundAccent">@color/tusky_grey_40</item>
 
         <item name="dividerColor">@color/tusky_grey_40</item>
