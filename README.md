@@ -1,4 +1,4 @@
-# Husky ( HyNET MOB fork )
+#  HyNET MOB (a Husky fork)
 
 This project is a fork of [Husky](https://git.mentality.rip/FWGS/Husky) with the main intends to customize it a bit more!
 
